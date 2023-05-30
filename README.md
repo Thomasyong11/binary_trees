@@ -3,12 +3,19 @@
 > C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. This projects covers the concepts of binary trees! This was a project done with the contribution of my peer  [Manuel Dinis Júnior](https://github.com/manueldinisjunior).
 
 At the end of this project, We were able to undesrtand these questions:
-* What is a binary tree
-* What is the difference between a binary tree and a Binary Search Tree
-* What is the possible gain in terms of time complexity compared to linked lists
-* What are the depth, the height, the size of a binary tree
-* What are the different traversal methods to go through a binary tree
-* What is a complete, a full, a perfect, a balanced binary tree
+
+### What is a Binary Tree?
+- a data structure in which a record is linked to two successor records, usually referred to as the left branch when greater and the right when less than the previous record.
+### What is the difference between a binary tree and a Binary Search Tree?
+- A Binary Tree follows one simple rule that each parent node has no more than two child nodes, whereas a Binary Search Tree is just a variant of the binary tree which follows a relative order to how the nodes should be organized in a tree.
+### What is the possible gain in terms of time complexity compared to linked lists?
+- A binary tree has a better time complexity for searching O(log N) but in the worst case can be the same as a linked list O(n). This means searching a binary tree will (in most cases) be faster than searching a linked list.
+### What are the depth, the height, the size of a binary tree?
+<img src="https://qph.fs.quoracdn.net/main-qimg-1ec0ae202b49683e52b995a1563476d8" width="500">
+### What are the different traversal methods to go through a binary tree
+<img src="https://computersciencewiki.org/images/7/7c/Binary_tree_traversal.png" width="500">
+### What is a complete, a full, a perfect, a balanced binary tree?
+<img src="https://miro.medium.com/max/16000/1*CMGFtehu01ZEBgzHG71sMg.png" width="500">
 
 ## Tasks :heavy_check_mark:
 
